@@ -30,3 +30,7 @@ baseName = "algolia"
 isPlainText = true
 mediaType = "application/json"
 notAlternative = true
+
+[caches]
+  [caches.images]
+    dir = 'cacheDir/images'
