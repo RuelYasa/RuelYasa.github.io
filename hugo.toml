@@ -33,4 +33,4 @@ notAlternative = true
 
 [caches]
   [caches.images]
-    dir = 'cacheDir/images'
+    dir = ':cacheDir/images'
